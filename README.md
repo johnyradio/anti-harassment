@@ -21,19 +21,19 @@ photography or recording, sustained disruption of talks or other
 events, inappropriate physical contact, and unwelcome sexual
 attention.
 
-Users of Noisebridge should not be forced to experience sexual or 
-sexualised language or imagery, so such language or imagery should be 
-avoided at Noisebridge. This includes decorations & artwork; events & 
-presentations; and public conversations. Private conversations of a 
-graphically sexual nature should include only voluntary participants, 
-and not disturb others.
+Different users of Noisebridge have different levels of comfort about 
+sex and porn. Nobody should be forced to experience sexual or 
+sexualised language or imagery. This does not mean that such material 
+is prohibited, just that such conversations, presentations, &c. should 
+include only interested and consenting people.
 
-There may be events at Noisebridge with a sexual focus or theme; these 
-events or presentations should be clearly labeled so that those who do 
-not wish to experience this sort of content may easily avoid them. It 
-is the responsibility of those managing such an event to ensure that 
-nobody is surprised by their event’s content. Other events should be 
-free of this content.
+When you are working on a sex- or porn-related project at Noisebridge, 
+or are running such an event or presentation, provide reasonable 
+notice and warning to allow others the opportunity to opt out if they 
+wish. With this — as anything else — each person has a responsibility 
+to be considerate of the comfort levels of others. Discussions, 
+projects, and events of this nature should strive to exist in a 
+culture of respect and consent.
 
 People asked to stop any harassing behavior are expected to comply
 immediately.
