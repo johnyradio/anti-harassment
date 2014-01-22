@@ -9,9 +9,9 @@ make pull requests, but please don't merge your own changes.
 
 Noisebridge is dedicated to providing a harassment-free experience for
 everyone, regardless of gender, gender identity and expression, sexual
-orientation, disability, physical appearance, body size, race, or
-religion. We do not tolerate harassment of people at our events or
-space in any form.
+orientation, disability, physical appearance, body size, race, religion,
+housing status, or language. We do not tolerate harassment of people at 
+our events or space in any form.
 
 Harassment includes offensive verbal comments related to gender,
 gender identity and expression, sexual orientation, disability,
