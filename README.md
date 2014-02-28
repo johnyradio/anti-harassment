@@ -10,10 +10,9 @@ make pull requests, but please don't merge your own changes.
 Noisebridge is dedicated to providing a harassment-free experience for
 everyone, regardless of gender, gender identity and expression, sexual
 orientation, disability, physical appearance, body size, race, religion,
-housing status, or language. We do not tolerate harassment of people at 
-our events or space in any form.
+housing status, or language. We do not tolerate harassment or abuse of people in our space or in writing, in any form.
 
-Harassment includes offensive verbal comments related to gender,
+"Harassment" includes offensive verbal comments related to gender,
 gender identity and expression, sexual orientation, disability,
 physical appearance, body size, race, religion, sexual images in
 public spaces, deliberate intimidation, stalking, following, harassing
@@ -35,8 +34,12 @@ to be considerate of the comfort levels of others. Discussions,
 projects, and events of this nature should strive to exist in a 
 culture of respect and consent.
 
-People asked to stop any harassing behavior are expected to comply
-immediately.
+"Abuse" is words or actions intended to hurt another person, including verbal insults, belittling or trivializing comments, and physical assault. 
+
+People asked to stop any harassing or abusive behavior are expected to comply
+immediately and permanently.
+
+Physical assualt is a more severe violation, and will result in immediate, permanent expulsion. 
 
 People violating these rules may be sanctioned or expelled from the
 space or the event at the discretion of any Noisebridge member.
